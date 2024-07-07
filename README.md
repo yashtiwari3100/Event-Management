@@ -1,1 +1,3 @@
-# Event-Management
+Event Management Web Application
+Description: - This is A full-stack Event website with admin panel developed using the MERN stack technologies. The platform allows users to browse and book their events or cancel them as Well. It has user authentication and authorization features to ensure secure access to sensitive data. In the Admin Section, After a Successful login, Admin can add, delete and modify Event categories and Events, list all the users and manage bookings made by all users. 
+Technologies Used: - Bootstrap, React.js, Redux-Toolkit-Query, Node.js, MongoDB, Express.js, JWT Authentication, Bcrypt, Multer, Axios, 
